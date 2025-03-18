@@ -1,1 +1,1 @@
-# Ai_app
+ai app case study
